@@ -17,5 +17,4 @@ public class FrameGameLauncher {
 		GameView view = new GameView(model);
 		view.setVisible(true);		
 	}
-
 }
